@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+fastapi
+uvicorn
+mlflow
+joblib
+matplotlib
+pytest
+hypothesis
+pytest-cov
+httpx
+pytest-mock
